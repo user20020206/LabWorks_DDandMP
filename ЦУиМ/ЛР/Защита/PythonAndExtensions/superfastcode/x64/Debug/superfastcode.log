@@ -1,0 +1,4 @@
+﻿  module.cpp
+D:\Уник\3 курс\VI семестр\ЦУиМ\ЦУиМ - моё\ЛР\4\Защита\PythonAndExtensions\superfastcode\module.cpp(9,55): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Уник\3 курс\VI семестр\ЦУиМ\ЦУиМ - моё\ЛР\4\Защита\PythonAndExtensions\superfastcode\module.cpp(9,53): warning C4305: аргумент: усечение из "const double" в "float"
+  superfastcode.vcxproj -> D:\Уник\3 курс\VI семестр\ЦУиМ\ЦУиМ - моё\ЛР\4\Защита\PythonAndExtensions\x64\Debug\superfastcode.pyd
